@@ -13,6 +13,7 @@
 		45B4FEAC2750CC05003F3150 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45B4FEAA2750CC05003F3150 /* Main.storyboard */; };
 		45B4FEAE2750CC0A003F3150 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 45B4FEAD2750CC0A003F3150 /* Assets.xcassets */; };
 		45B4FEB12750CC0A003F3150 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45B4FEAF2750CC0A003F3150 /* LaunchScreen.storyboard */; };
+		45B4FEB92750EB7D003F3150 /* ImageCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45B4FEB82750EB7D003F3150 /* ImageCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		45B4FEAD2750CC0A003F3150 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		45B4FEB02750CC0A003F3150 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		45B4FEB22750CC0A003F3150 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		45B4FEB82750EB7D003F3150 /* ImageCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				45B4FEA42750CC05003F3150 /* AppDelegate.swift */,
 				45B4FEA62750CC05003F3150 /* SceneDelegate.swift */,
 				45B4FEA82750CC05003F3150 /* ViewController.swift */,
+				45B4FEB82750EB7D003F3150 /* ImageCollectionViewCell.swift */,
 				45B4FEAA2750CC05003F3150 /* Main.storyboard */,
 				45B4FEAD2750CC0A003F3150 /* Assets.xcassets */,
 				45B4FEAF2750CC0A003F3150 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				45B4FEA92750CC05003F3150 /* ViewController.swift in Sources */,
 				45B4FEA52750CC05003F3150 /* AppDelegate.swift in Sources */,
+				45B4FEB92750EB7D003F3150 /* ImageCollectionViewCell.swift in Sources */,
 				45B4FEA72750CC05003F3150 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
