@@ -30,6 +30,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UISearchBarD
     
     var results: [Result] = []
     var count = 0
+    var counterOne = 0
     
     let searchBar = UISearchBar()
    
